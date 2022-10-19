@@ -36,7 +36,7 @@ list so other people can find it.
 
 ## Install
 
-    $ npm install passport-oauth2
+    $ npm i git+ssh@github.com:adirshab/passport-oauth2.git
 
 ## Usage
 
